@@ -1,2 +1,2 @@
 # bdocalc
-A simple calculator for Black Desert Online.
+A simple calculator.
