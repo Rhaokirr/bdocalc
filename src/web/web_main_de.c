@@ -443,7 +443,7 @@ void steamed_fish(int batch)
         int salt = 2;
         int min_water = 3;
 
-        printf(" <p>Fisch: %</p>d\n", fish * batch);
+        printf(" <p>Fisch: %d</p>\n", fish * batch);
         printf(" <p>Knoblauch: %d</p>\n", garlic * batch);
         printf(" <p>Salz: %d</p>\n", salt * batch);
         printf(" <p>Mineralwasser: %d</p>\n", min_water * batch);
